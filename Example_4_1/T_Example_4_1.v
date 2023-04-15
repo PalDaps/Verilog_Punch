@@ -1,7 +1,7 @@
 `timescale 1ns / 1ns
 `include "Example_4_1.v"
 
-module T_Example_4_1
+module T_Example_4_1;
 
 reg y;
 wire a;
